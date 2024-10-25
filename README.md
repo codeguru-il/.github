@@ -1,2 +1,3 @@
-# .github
-CodeGuru IL
+# CodeGuru
+
+README in progress...
