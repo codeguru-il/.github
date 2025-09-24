@@ -1,7 +1,7 @@
 ## Welcome to CodeGuru!
 We ignite the future STEM leaders of Israel.
 
-We do so by providing teens across the country with STEM training, and by organizing the CodeGuru and CodeGuru Xtreme annual math, STEM and cyber competitions.
+We do so by providing teens across the country with STEM training, and by organizing the CodeGuru Classix and CodeGuru Xtreme annual math, STEM and cyber competitions.
 
 ## Our projects on GitHub
 - [corewars8086](https://github.com/codeguru-il/corewars8086) - The world-famous 8086 Emulator and engine of the annual CodeGuru Xtreme cyber competition
